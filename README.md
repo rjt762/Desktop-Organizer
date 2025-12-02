@@ -1,5 +1,5 @@
 # Desktop-Organizer
-PowerShell Script to move all files on desktop into folders based on file extension. 
+PowerShell Script to sort all files on desktop into folders based on file extension. 
 
 The script will check to see if the following folders exist, and create them if they do not:
 
